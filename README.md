@@ -30,12 +30,8 @@ Additionally, a reward-based mechanism evaluates whether the adjustment was effe
 
 
 
-Features
-•	Traffic density analysis
-•	Dynamic signal timing adjustment
-•	Reward-based learning mechanism
-•	Identification of peak and low traffic periods
-•	Visualization of signal timing adaptation
+<img width="456" height="173" alt="image" src="https://github.com/user-attachments/assets/caeee207-09ba-4b1f-980d-6d192eb8f0d1" />
+
 
 
 
