@@ -6,14 +6,14 @@ Overview
 
 This project simulates an intelligent traffic signal control system that dynamically adjusts green signal timing based on traffic density. Unlike traditional fixed-time signals, this system adapts to changing traffic conditions using a simple learning agent approach.
 
-________________________________________
+
 
 
 Problem Statement
 Traffic congestion is a common issue in urban areas. Conventional traffic signals operate on fixed timings, which often leads to inefficient traffic flow. There is a need for a system that can respond dynamically to real-time traffic conditions and optimize signal timing.
 
 
-________________________________________
+
 
 
 Proposed Solution
@@ -27,7 +27,7 @@ Based on this classification:
 •	Signal time increases during high traffic
 •	Signal time decreases during low traffic
 Additionally, a reward-based mechanism evaluates whether the adjustment was effective, allowing the system to behave like a learning agent.
-________________________________________
+
 
 
 Features
@@ -36,14 +36,14 @@ Features
 •	Reward-based learning mechanism
 •	Identification of peak and low traffic periods
 •	Visualization of signal timing adaptation
-________________________________________
+
 
 
 Technologies Used
 •	Python – Core programming language
 •	Pandas – Data handling and simulation
 •	Matplotlib – Visualization of traffic patterns
-________________________________________
+
 
 
 How to Run the Project
@@ -51,7 +51,7 @@ How to Run the Project
 pip install -r requirements.txt
 2.	Run the main program:
 python main.py
-________________________________________
+
 
 
 Output
@@ -59,11 +59,10 @@ Output
 •	Dynamic adjustment of signal timing
 •	Identification of peak and low traffic hours
 •	Graph showing how signal timing adapts over time
-________________________________________
+
 
 <img width="427" height="233" alt="image" src="https://github.com/user-attachments/assets/33bf1d8f-aa92-4363-9ab9-b490401e9f70" />
 
-________________________________________
 
 
 Learning Approach
@@ -73,7 +72,7 @@ This project implements a simple learning agent:
 •	Receives feedback (reward/penalty)
 •	Stores experience for analysis
 This mimics basic principles of reinforcement learning.
-________________________________________
+
 
 
 Future Enhancements
@@ -81,7 +80,7 @@ Future Enhancements
 •	Implementation of advanced reinforcement learning algorithms (Q-learning)
 •	Development of a graphical user interface (GUI)
 •	Multi-intersection traffic management system
-________________________________________
+
 
 
 
@@ -90,7 +89,7 @@ Learning Outcomes
 •	Application of basic machine learning concepts
 •	Data analysis and visualization
 •	Real-world problem-solving using Python
-________________________________________
+
 Author
-Tanishq pipriya
+Aryan Kumar
 
